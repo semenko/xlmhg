@@ -2,7 +2,7 @@
 #
 # This file is part of XL-mHG.
 
-#cython: profile=False, wraparound=False, boundscheck=False, cdivision=True
+#cython: profile=False, wraparound=False, boundscheck=False, cdivision=True, language_level=3
 
 """XL-mHG Cython implementation."""
 
